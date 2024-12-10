@@ -35,7 +35,7 @@ export function Hero() {
                     <div className="relative rounded-xl aspect-square overflow-hidden">
                         <Image
                             fill
-                            src="/img_hero.jpg"
+                            src="./img_hero.jpg"
                             alt="Legal Team"
                             sizes="100vw"
                             className="object-contain"
