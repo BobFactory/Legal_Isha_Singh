@@ -1,4 +1,6 @@
 import type { Config } from "tailwindcss";
+import daisyui from "daisyui"
+
 
 export default {
   content: [
@@ -14,5 +16,16 @@ export default {
       },
     },
   },
-  plugins: [],
+  daisyui: {
+    themes: [{
+      retro: {
+        ...require("daisyui/src/theming/themes")["retro"],
+        "base-100": "#FFF8E6",
+        "background": "#1C1C24"
+      }
+    }]
+  },
+  plugins: [
+    daisyui
+  ],
 } satisfies Config;
