@@ -134,7 +134,7 @@ export function Testimonials() {
 
                     <div className="relative aspect-[4/3] lg:aspect-auto lg:h-[600px] rounded-xl overflow-hidden">
                         <Image
-                            src="/img_court.jpg"
+                            src="./img_court.jpg"
                             alt="Legal team in office"
                             fill
                             className="object-cover"
