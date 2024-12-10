@@ -1,10 +1,8 @@
 import {
     FaUserFriends,
-    FaUserInjured,
     FaGavel,
     FaBriefcase,
     FaScroll,
-    FaHome
 } from 'react-icons/fa'
 import { BiMaleFemale } from "react-icons/bi";
 import { RiLightbulbFlashFill } from "react-icons/ri";
