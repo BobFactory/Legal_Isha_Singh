@@ -3,8 +3,8 @@ import "./globals.css";
 
 
 export const metadata: Metadata = {
-  title: "Isha Singh",
-  description: "Advocate Isha Singh",
+  title: "I & G Associates",
+  description: "Best Law Consultancy Firm",
 };
 
 export default function RootLayout({

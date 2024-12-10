@@ -17,7 +17,7 @@ const testimonials = [
         content: "Isha Singh helped me solve a content dispute with a corporate entity and helped me do a out of the court settlement. I am grateful for her legal insights and her persuasive skills that helped me solve a heavy lawsuit.",
         author: "Aditi Singh",
         role: "Social Media Executive",
-        avatar: "SJ"
+        avatar: "AS"
     },
     {
         id: 3,
@@ -134,7 +134,7 @@ export function Testimonials() {
 
                     <div className="relative aspect-[4/3] lg:aspect-auto lg:h-[600px] rounded-xl overflow-hidden">
                         <Image
-                            src="./img_court.jpg"
+                            src="/img_court.jpg"
                             alt="Legal team in office"
                             fill
                             className="object-cover"

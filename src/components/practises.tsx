@@ -6,6 +6,10 @@ import {
     FaScroll,
     FaHome
 } from 'react-icons/fa'
+import { BiMaleFemale } from "react-icons/bi";
+import { RiLightbulbFlashFill } from "react-icons/ri";
+
+
 
 const practices = [
     {
@@ -14,7 +18,7 @@ const practices = [
         description: "Defending your rights with expertise and dedication in all criminal matters, ensuring a fair trial and justice."
     },
     {
-        icon: FaUserInjured,
+        icon: BiMaleFemale,
         title: "Matrimonial disputes",
         description: "Offering compassionate and effective legal solutions for divorce, custody, and family disputes."
     },
@@ -34,7 +38,7 @@ const practices = [
         description: "Ensuring swift recovery of dues through effective legal representation and strategy."
     },
     {
-        icon: FaHome,
+        icon: RiLightbulbFlashFill,
         title: "Intellectual property rights",
         description: "Protecting your innovations and creative works with expert IPR legal services."
     }

@@ -22,7 +22,7 @@ export function Hero() {
                         </h1>
 
                         <p className="text-gray-400 text-lg max-w-xl">
-                            As a dedicated legal professional, I provide personalized,
+                            As a dedicated legal professional, we provide personalized,
                             comprehensive services to clients in India,
                             ensuring every case gets the attention it deserves.
                         </p>
@@ -35,7 +35,7 @@ export function Hero() {
                     <div className="relative rounded-xl aspect-square overflow-hidden">
                         <Image
                             fill
-                            src="./img_hero.jpg"
+                            src="/img_hero.jpg"
                             alt="Legal Team"
                             sizes="100vw"
                             className="object-contain"

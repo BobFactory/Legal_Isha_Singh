@@ -14,7 +14,7 @@ export function Navbar() {
                         <GoLaw className="text-4xl mr-3" />
 
                         <Link href="/" className="text-2xl font-black  ">
-                            Isha Singh
+                            I &amp; G Associates
                         </Link>
                     </div>
 
