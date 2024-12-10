@@ -71,7 +71,7 @@ export function Testimonials() {
                                 >
                                     <blockquote className="space-y-8">
                                         <p className="text-lg text-neutral-content/80">
-                                            "{testimonial.content}"
+                                            {testimonial.content}
                                         </p>
 
                                         <footer className="flex items-center gap-4">

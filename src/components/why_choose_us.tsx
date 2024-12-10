@@ -1,5 +1,4 @@
 import Image from "next/image"
-import FreeConsultationButton from "./free_consultation"
 
 export function WhyChooseUs() {
     const benefits = [

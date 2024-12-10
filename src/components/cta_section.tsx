@@ -1,5 +1,4 @@
 import { FaStar, FaGoogle } from "react-icons/fa"
-import FreeConsultationButton from "./free_consultation"
 
 export function CTASection() {
     return (

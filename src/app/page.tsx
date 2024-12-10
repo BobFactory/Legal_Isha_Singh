@@ -6,7 +6,6 @@ import { Navbar } from "@/components/navbar";
 import { Practices } from "@/components/practises";
 import { Testimonials } from "@/components/testimonials";
 import { WhyChooseUs } from "@/components/why_choose_us";
-import Image from "next/image";
 
 export default function Home() {
   return (

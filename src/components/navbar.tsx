@@ -5,14 +5,6 @@ import Link from "next/link"
 
 export function Navbar() {
 
-    const options = ["Home", "About", "Practice Areas", "Contact"]
-
-    const refMap = {
-        "Home": "#home",
-        "About": "#about",
-        "Practice Areas": "#practices",
-        "Contact": "#cta",
-    }
     return (
         <nav className="bg-base-100 border-b">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
