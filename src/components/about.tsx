@@ -12,7 +12,7 @@ export default function About() {
                             At I &amp; G Associates, we are dedicated to providing top-notch{" "}
                             <span className="font-semibold">legal representation</span> and guidance
                             tailored to your individual needs. With over{" "}
-                            <span className="font-semibold">25 years</span> of combined experience,
+                            <span className="font-semibold">2+ years</span> of combined experience,
                             our team of highly skilled attorneys specializes in a diverse range of
                             legal areas, ensuring that no matter your issue, we&apos;ve got you covered.
                         </p>

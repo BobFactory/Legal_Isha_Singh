@@ -32,7 +32,7 @@ export function WhyChooseUs() {
                 <div className="grid lg:grid-cols-2 gap-12 items-center">
                     <div className="relative aspect-[4/3] lg:aspect-auto lg:h-[600px] rounded-xl overflow-hidden">
                         <Image
-                            src="./img_choose_us.jpg"
+                            src="/img_choose_us.jpg"
                             alt="Professional lawyer in office"
                             fill
                             className="object-cover"
